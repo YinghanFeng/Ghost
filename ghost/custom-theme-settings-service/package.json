@@ -29,6 +29,6 @@
     "@tryghost/errors": "1.3.2",
     "@tryghost/nql": "0.12.3",
     "@tryghost/tpl": "0.1.30",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   }
 }
